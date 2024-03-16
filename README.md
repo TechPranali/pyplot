@@ -8,7 +8,7 @@ This project focuses on strengthening Python visualization skills, specifically 
 
 ### Getting Started
 
-1. Fork the base repository to your GitHub account by clicking the "Use this Template" button and specifying yourself as the owner. T
+1. Fork the base repository to your GitHub account by clicking the "Use this Template" button and specifying yourself as the owner.
 2. Clone your new repository to your local machine.
 
 ## Usage Guidelines
